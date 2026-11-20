@@ -24,13 +24,13 @@ O projeto busca oferecer uma experiência visual agradável, navegação intuiti
 
 ## Funcionalidades
 
-- Apresentação profissional.
+- Apresentação profissional da arquiteta.
 - Portfólio de projetos arquitetônicos.
 - Navegação por categorias.
 - Galeria de imagens.
-- Depoimentos.
+- Seção de depoimentos.
 - Formulário para solicitação de orçamento.
-- Integração com WhatsApp e e-mail.
+- Acesso aos canais de contato por WhatsApp e e-mail.
 - Interface responsiva.
 
 ## Tecnologias utilizadas
@@ -59,7 +59,7 @@ cd Arquitetura-
 python -m http.server 8000
 ```
 
-**4. Abra no navegador:**
+**4. Acesse no navegador:**
 
 ```text
 http://localhost:8000
@@ -69,9 +69,9 @@ http://localhost:8000
 
 ## Desenvolvimento
 
-**Desenvolvido por Cristina Rocha.**
+Desenvolvido por **Cristina Rocha**.
 
-Projeto independente desenvolvido a partir de uma necessidade real, aplicando conhecimentos de desenvolvimento web, organização de conteúdo, interatividade e construção de interfaces responsivas.
+Projeto independente desenvolvido a partir de uma necessidade real, aplicando conhecimentos de desenvolvimento web, organização de conteúdo e construção de interfaces.
 
 [GitHub — Cristina Rocha](https://github.com/crisrocha24)
 
