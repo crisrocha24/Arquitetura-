@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="assets/capa-readme.png" width="100%" alt="Projeto de arquitetura de Kelly Coelho">
+<img src="ativos/assets/capa-readme.png" width="100%" alt="Projeto de arquitetura de Kelly Coelho">
 
 # KELLY COELHO | ARQUITETURA
 
