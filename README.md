@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 ![Projeto de arquitetura de Kelly Coelho](assets/capa-readme.jpeg)
 
@@ -18,61 +18,81 @@ Site institucional desenvolvido para apresentar projetos arquitetônicos, fortal
 
 ## Sobre o projeto
 
-Site institucional desenvolvido para a arquiteta Kelly Coelho, com foco na apresentação profissional de seu trabalho e na valorização de seu portfólio.
-
-O projeto busca oferecer uma experiência visual agradável, navegação intuitiva e acesso facilitado às informações e aos canais de contato.
+Site institucional criado para a apresentação profissional do trabalho de Kelly Coelho, com foco em arquitetura residencial e corporativa. A interface reúne informações sobre os serviços, projetos selecionados e canais de contato.
 
 ## Funcionalidades
 
-- Apresentação profissional da arquiteta.
-- Portfólio de projetos arquitetônicos.
-- Navegação por categorias.
-- Galeria de imagens.
-- Seção de depoimentos.
-- Formulário para solicitação de orçamento.
-- Acesso aos canais de contato por WhatsApp e e-mail.
-- Interface responsiva.
+- Apresentação profissional e áreas de atuação.
+- Portfólio com filtros por categoria.
+- Galeria de imagens e detalhes dos projetos.
+- Seção preparada para depoimentos autorizados.
+- Formulário de solicitação de orçamento.
+- Contato por WhatsApp e e-mail.
+- Layout responsivo e navegação acessível.
 
-## Tecnologias utilizadas
+## Tecnologias
 
 - HTML5
 - CSS3
 - JavaScript
 
-## Como executar
+## Estrutura
 
-**1. Clone o repositório:**
+```text
+.
+├── assets/
+│   ├── depoimentos/
+│   ├── documentos/
+│   ├── logo/
+│   └── projetos/
+├── css/
+│   └── estilos.css
+├── js/
+│   ├── conteudo.js
+│   └── site.js
+├── favicon.svg
+├── index.html
+└── README.md
+```
+
+## Executar localmente
+
+1. Clone o repositório:
 
 ```bash
 git clone https://github.com/crisrocha24/Arquitetura-.git
 ```
 
-**2. Acesse a pasta do projeto:**
+2. Entre na pasta:
 
 ```bash
 cd Arquitetura-
 ```
 
-**3. Inicie o servidor local:**
+3. Inicie um servidor local:
 
 ```bash
 python -m http.server 8000
 ```
 
-**4. Acesse no navegador:**
+4. Abra no navegador: [http://localhost:8000](http://localhost:8000).
 
-```text
-http://localhost:8000
-```
+## Publicação
 
----
+O projeto está preparado para hospedagem estática no GitHub Pages.
+
+1. No repositório, acesse **Settings**.
+2. Abra **Pages** no menu lateral.
+3. Em **Build and deployment**, selecione **Deploy from a branch**.
+4. Escolha a branch **main** e a pasta **/(root)**.
+5. Clique em **Save** e aguarde a publicação.
+
+Depois que o GitHub Pages disponibilizar o endereço, adicione o link do site nesta seção.
 
 ## Desenvolvimento
 
-Desenvolvido por **Cristina Rocha**.
-
-Projeto independente desenvolvido a partir de uma necessidade real, aplicando conhecimentos de desenvolvimento web, organização de conteúdo e construção de interfaces.
+Desenvolvido por **Cristina Rocha** como projeto independente, a partir de uma necessidade real, aplicando conhecimentos de desenvolvimento web, organização de conteúdo e construção de interfaces.
 
 [GitHub — Cristina Rocha](https://github.com/crisrocha24)
 
-**Status:** Em desenvolvimento.
+**Status:** preparado para publicação. A ativação do GitHub Pages e a validação final do conteúdo dependem das etapas descritas acima.
