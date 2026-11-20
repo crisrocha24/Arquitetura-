@@ -1,6 +1,6 @@
  <div align="center">
 
-![Projeto de arquitetura de Kelly Coelho](https://raw.githubusercontent.com/crisrocha24/Arquitetura-/main/ativos/assets/capa-readme.png)
+![Projeto de arquitetura de Kelly Coelho](assets/capa-readme.png)
 
 # KELLY COELHO | ARQUITETURA
 
