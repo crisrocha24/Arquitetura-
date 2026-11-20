@@ -1,6 +1,6 @@
  <div align="center">
 
-![Projeto de arquitetura de Kelly Coelho](assets/capa-readme.png)
+![Projeto de arquitetura de Kelly Coelho](assets/capa-readme.jpeg)
 
 # KELLY COELHO | ARQUITETURA
 
