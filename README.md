@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="ativos/assets/capa-readme.png" width="100%" alt="Projeto de arquitetura de Kelly Coelho">
+![Projeto de arquitetura de Kelly Coelho](ativos/assets/capa-readme.png)
 
 # KELLY COELHO | ARQUITETURA
 
@@ -18,7 +18,7 @@ Site institucional desenvolvido para apresentar projetos arquitetônicos, fortal
 
 ## Sobre o projeto
 
-Desenvolvimento de um site institucional para a arquiteta Kelly Coelho, com foco na apresentação profissional de seu trabalho e na valorização de seu portfólio.
+Site institucional desenvolvido para a arquiteta Kelly Coelho, com foco na apresentação profissional de seu trabalho e na valorização de seu portfólio.
 
 O projeto busca oferecer uma experiência visual agradável, navegação intuitiva e acesso facilitado às informações e aos canais de contato.
 
@@ -26,7 +26,7 @@ O projeto busca oferecer uma experiência visual agradável, navegação intuiti
 
 - Apresentação profissional.
 - Portfólio de projetos arquitetônicos.
-- Organização e navegação por categorias.
+- Navegação por categorias.
 - Galeria de imagens.
 - Depoimentos.
 - Formulário para solicitação de orçamento.
@@ -41,25 +41,25 @@ O projeto busca oferecer uma experiência visual agradável, navegação intuiti
 
 ## Como executar
 
-Clone o repositório:
+**1. Clone o repositório:**
 
 ```bash
 git clone https://github.com/crisrocha24/Arquitetura-.git
 ```
 
-Entre na pasta do projeto:
+**2. Acesse a pasta do projeto:**
 
 ```bash
 cd Arquitetura-
 ```
 
-Inicie um servidor local:
+**3. Inicie o servidor local:**
 
 ```bash
 python -m http.server 8000
 ```
 
-Acesse no navegador:
+**4. Abra no navegador:**
 
 ```text
 http://localhost:8000
@@ -71,7 +71,7 @@ http://localhost:8000
 
 **Desenvolvido por Cristina Rocha.**
 
-Projeto independente desenvolvido a partir de uma necessidade real, aplicando conhecimentos de desenvolvimento web, estruturação de conteúdo, interatividade e construção de interfaces.
+Projeto independente desenvolvido a partir de uma necessidade real, aplicando conhecimentos de desenvolvimento web, organização de conteúdo, interatividade e construção de interfaces responsivas.
 
 [GitHub — Cristina Rocha](https://github.com/crisrocha24)
 
